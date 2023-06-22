@@ -1,9 +1,10 @@
 {
-"Title": "#توجه",
-"Description": "ت",
-"Link": "tg://join?invite=FSPb61tCwOxmZGVk",
-"ColorWave": "#64dd17",
-"ColorWaveTwo": "#4DD0E1",
+"Title": "فیلترشکن قوی و پرسرعت",
+"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
+"Link": "tg://join?invite=cryQSRgPjGxmNjlk",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,12 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "1",
-"ShowTime": "120",
-"Button": "عضویت در کانال VIP ",
-"ButtonCancell": " بعدا ",
+"MessageID": "9238501",
+"ShowTime": "3",
+"Button": " دانلود فیلترشکن پرسرعت ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
-
-
